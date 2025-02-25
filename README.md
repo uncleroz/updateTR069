@@ -1,10 +1,11 @@
 # Script Khusus Ubuntu 20.04
 Ini adalah script auto update untuk GenieACS.
-Semoga bermanfaat.
-Terima Kasih.
+
+Semoga bermanfaat. Terima Kasih.
 # Login
-User = admin
-Pass = admin
+User = _admin_
+
+Pass = _admin_
 # Usage
 ```
 git clone https://github.com/uncleroz/updateTR069
