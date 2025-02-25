@@ -2,6 +2,9 @@
 Ini adalah script auto update untuk GenieACS.
 Semoga bermanfaat.
 Terima Kasih.
+# Login
+User = admin
+Pass = admin
 # Usage
 ```
 git clone https://github.com/uncleroz/updateTR069
